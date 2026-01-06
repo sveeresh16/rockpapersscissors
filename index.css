@@ -5,6 +5,7 @@ body{
 
 }
 .heading{
+    poistion:relative;
    text-align: center;
    text-decoration: underline;
 justify-items: center;
@@ -46,4 +47,5 @@ font-size: 20px;
     background-color: black;
     text-align: end;
 }
+
 
