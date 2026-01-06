@@ -5,10 +5,9 @@ body{
 
 }
 .heading{
-    poistion:relative;
+    position:relative;
    text-align: center;
    text-decoration: underline;
-justify-items: center;
 color: aliceblue;
 font-size: 20px;
 }
@@ -47,6 +46,7 @@ font-size: 20px;
     background-color: black;
     text-align: end;
 }
+
 
 
 
